@@ -1,14 +1,12 @@
 # Olá, eu sou João Raposo 👋
 
-💻 Desenvolvedor em formação | Back-End | Tecnologia
+💻 Desenvolvedor Back-End | Tecnologia
 
 Sou estudante de Tecnologia da Informação, apaixonado por programação e criação de soluções digitais.
-
 Tenho interesse em desenvolvimento web, sistemas e tecnologias que ajudam a resolver problemas reais.
-
 Atualmente estou evoluindo minhas habilidades em Back-End, criando projetos práticos e buscando sempre aprender novas ferramentas.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoraposacalingo/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoCalingo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoraposacalingo/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaocalingo)
 ## 🚀 Tecnologias
 
 <div>
@@ -18,8 +16,8 @@ Atualmente estou evoluindo minhas habilidades em Back-End, criando projetos prá
 
 ## 📌 Projetos
 
-🔹 Sistema de Gestão de Usuários  
-Tecnologias: PHP + MySQL + HTML + CSS
+🔹 Sistema de Controlo e Registo Financeiro  
+Tecnologias: PHP + MySQL + HTML + CSS + JavaScript
 
 🔹 API de Cadastro de Clientes  
 Tecnologias: Java + Banco de Dados
@@ -29,7 +27,7 @@ Tecnologias: PHP + JavaScript + MySQL
 
 ## 📊 Estatísticas
 
-![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&theme=dark)
+![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&theme=transparent)
 
 ## 🎯 Objetivos
 
@@ -39,7 +37,7 @@ Meu objetivo é crescer como desenvolvedor, participar de projetos desafiadores 
 
 📧 Email: joaocalingo@gmail.com
 
-💼 LinkedIn: [joao-raposa-calingo](https://www.linkedin.com/in/joaoraposacalingo/)
+💼 LinkedIn: [João Raposa Calingo](https://www.linkedin.com/in/joaoraposacalingo/)
 
 🌎 Localização: Angola
 
